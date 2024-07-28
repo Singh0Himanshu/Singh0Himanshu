@@ -1,32 +1,69 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<!-- README FILE CODE -->
 
-<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img  align="right"alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh0himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="singh0himanshu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
+<h2 align=center>👋 Good to have you here!!</h2>
 
-- 🌱 I’m currently learning **react.js**
 
-- 💬 Ask me about **HTML,CSS,Javascript,java**
+<!--ABOUT ME CODE-->
+🌱 **About myself**<br>
 
-- 📫 How to reach me **shimanshu.3689@gmail.com**
+✔️ I am **Himanshu Singh**, a passionate Software Developer and a CSE graduate from UCET, VBU. <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshu singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu singh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rs_420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rs_420" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rs4206254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rs4206254" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rs4206254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rs4206254" height="30" width="40" /></a>
+✔️ My interests lie in development, and I've had the pleasure of contributing to various open-source organizations. Problem-solving is another arena I really enjoy and love to engage in. <br>
+
+✔️ With solid experience in full-stack web development, I thrive on creating and enhancing web applications. <br>
+
+✔️ I've actively participated in numerous open-source events, which have enriched my skills and expanded my network. <br>
+
+✔️ Let's connect and collaborate!
+
+<br>
+
+
+<!--NOMINATION FOR STAR GIT LINK CODE-->
+<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+
+
+<!-- SOCAIL MEDIA HANDLES -->
+[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/riti2409/)
+
+[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikumariupadhyay24@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
+
+---
+
+<!-- STATISTICS ABOUT PROFILE -->
+
+ 📶 Stats:<br><br>
+ 
+ 
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+ 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+
+ --- 
+ 
+ <hr>
+ 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riti2409&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+         
+
+---
+  </code>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh0himanshu&show_icons=true&locale=en&layout=compact" alt="singh0himanshu" /></p>
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=riti2409&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+<center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh0himanshu&show_icons=true&locale=en" alt="singh0himanshu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh0himanshu&" alt="singh0himanshu" /></p>
+
+
+ -->
