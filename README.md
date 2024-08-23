@@ -19,7 +19,7 @@
 
 ✔️ Let's connect and collaborate!
 
-<b
+
 
 
 <!-- SOCAIL MEDIA HANDLES -->
