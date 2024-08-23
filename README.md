@@ -9,21 +9,17 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Himanshu Singh**, a passionate Software Developer and a CSE graduate from UCET, VBU. <br>
+✔️ I am **Himanshu Singh**, a passionate Software Developer and a IT graduate from rkgit, AKTU. <br>
 
-✔️ My interests lie in development, and I've had the pleasure of contributing to various open-source organizations. Problem-solving is another arena I really enjoy and love to engage in. <br>
+✔️ My interests lie in development, and I've had the pleasure of contributing to various projects. Problem-solving is another arena I really enjoy and love to engage in. <br>
 
-✔️ With solid experience in full-stack web development, I thrive on creating and enhancing web applications. <br>
+✔️ With solid experience in front-end web development, I thrive on creating and enhancing web applications. <br>
 
-✔️ I've actively participated in numerous open-source events, which have enriched my skills and expanded my network. <br>
+✔️ I've actively participated in numerous Tech competition, which have enriched my skills and expanded my network. <br>
 
 ✔️ Let's connect and collaborate!
 
-<br>
-
-
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+<b
 
 
 <!-- SOCAIL MEDIA HANDLES -->
@@ -45,7 +41,7 @@
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/Singh0Himanshu/count.svg?align=center)
 
  --- 
  
