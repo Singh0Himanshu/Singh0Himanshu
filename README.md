@@ -23,9 +23,9 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-singh-h/)](https://www.linkedin.com/in/himanshu-singh-h/)
+[![Linkedin Badge](https://img.shields.io/badge/-Himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-singh-h/)](https://www.linkedin.com/in/himanshu-singh-h/)
 
-[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimanshu.3689@gmail.com)](maito:shimanshu.3689@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-shimanshu.3689@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimanshu.3689@gmail.com)](maito:shimanshu.3689@gmail.com)
 
 ---
 
@@ -35,7 +35,7 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Singh0Himanshu&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
@@ -48,7 +48,7 @@
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riti2409&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Singh0Himanshu&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
@@ -56,7 +56,7 @@
 </p>
 
 
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=riti2409&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=Singh0Himanshu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
 <center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
 
 
