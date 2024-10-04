@@ -23,9 +23,9 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/riti2409/)
+[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-singh-h/)](https://www.linkedin.com/in/himanshu-singh-h/)
 
-[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikumariupadhyay24@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimanshu.3689@gmail.com)](maito:shimanshu.3689@gmail.com)
 
 ---
 
