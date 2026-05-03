@@ -13,7 +13,7 @@
 
 ✔️ My interests lie in development, and I've had the pleasure of contributing to various projects. Problem-solving is another arena I really enjoy and love to engage in. <br>
 
-✔️ With solid experience in front-end web development, I thrive on creating and enhancing web applications. <br>
+✔️ With solid experience in Full Stack web development, I thrive on creating and enhancing web applications. <br>
 
 ✔️ I've actively participated in numerous Tech competition, which have enriched my skills and expanded my network. <br>
 
